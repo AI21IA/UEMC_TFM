@@ -44,11 +44,6 @@ _Ejecutar el cuaderno "1_TEST_EJECUTABLE.ipynb"_
 * [Anaconda](https://www.anaconda.com/) 
 
 
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
 ## Autor ✒️
 
 
@@ -59,4 +54,4 @@ Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) 
 
 * A mi Tutor de máster;  ÁLVARO JARAMILLO 📢
 ---
-⌨️ con ❤️ por [Jesús](https://github.com/AI21IA) 😊
+⌨️  [Jesús](https://github.com/AI21IA) 😊
