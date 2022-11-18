@@ -60,4 +60,4 @@ _Ejecutar el cuaderno "1_TEST_EJECUTABLE.ipynb"_
 
 * A mi Tutor de máster;  ÁLVARO JARAMILLO 📢
 ---
-⌨️  [Jesús](https://github.com/AI21IA) 😊
+⌨️  [Jesús](https://github.com/AI2IA/UEMC_TFM) 😊
