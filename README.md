@@ -53,11 +53,11 @@ _Ejecutar el cuaderno "1_TEST_EJECUTABLE.ipynb"_
 ## Autor ✒️
 
 
-* **Jesús García Arranz* - *Trabajo Inicial* - [Jesús]((https://github.com/AI21IA/UEMC_TFM))
+* **Jesús García Arranz* - *Trabajo Inicial* - ([Jesús](https://github.com/AI21IA/UEMC_TFM))
 
 
-## Expresiones de Gratitud 🎁
+## Gracias a 🎁
 
-* A mi Tutor de máster;  ÁLVARO JARAMILLO 📢
+* Mi Tutor de máster;  ÁLVARO JARAMILLO 📢
 ---
-⌨️  [Jesús](https://github.com/AI21IA/UEMC_TFM) 😊
+⌨️  ([Jesús]https://github.com/AI21IA/UEMC_TFM) 😊
