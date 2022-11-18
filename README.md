@@ -11,10 +11,15 @@ _Descarga una copia del proyecto en funcionamiento en tu máquina local para pro
 ### Pre-requisitos 📋
 
 _Windows o Linux o Mac_
+
 _Anaconda_
+
 _Python 3.7_
+
 _KerasGPU2.6.0_
+
 _TensorflowGPU2.6.0_
+
 _Cuda_
 
 
